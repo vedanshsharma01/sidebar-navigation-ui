@@ -128,3 +128,9 @@
 #check:checked ~.sidebar_menu .btn_two i{
     opacity:1;
 }
+@media screen and (max-width: 768px) {
+  .main_box {
+    background-size: cover;
+    background-position: center center;
+  }
+}
