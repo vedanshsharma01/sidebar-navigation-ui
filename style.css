@@ -16,7 +16,8 @@
     font-size:30px;
     font-weight: 700;
     position: absolute;
-    left: 10px;
+    top:10px;
+    left: 30px;
     line-height: 60px;
     transition: all 0.3s linear;
 
@@ -96,6 +97,7 @@
     color: white;
     opacity: 0.5;
     padding: 0 5px;
+    font-size: 25px;
 
 }
 
