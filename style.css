@@ -135,4 +135,12 @@
     background-size: cover;
     background-position: center center;
   }
+
+  .sidebar_menu .social_media{
+
+    position: absolute;
+    left: 25%;
+    bottom: 60px;
+
+}
 }
